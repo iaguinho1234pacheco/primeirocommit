@@ -1,4 +1,4 @@
-<h1> <align+(center)> ✈️ Pesquisa codigos do git hub ✈️
+<h1> <align="center"> ✈️ Pesquisa codigos do git hub ✈️
 
 <br>
 <h3> </h3> <p> git help
